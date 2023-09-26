@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
